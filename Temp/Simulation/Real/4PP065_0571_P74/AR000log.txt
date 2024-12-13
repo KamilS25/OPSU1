@@ -1,0 +1,21 @@
+Tue Sep 17 11:32:58 2024
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Tue Sep 17 11:32:58 2024
+No ARsim registration found!
+
+Tue Sep 17 11:32:58 2024
+InstanceName: 01db08dc336bc610
+
+Tue Sep 17 11:32:58 2024
+WorkingDirectory: C:\Users\admin\Desktop\KVBO_07_21\kvbo0721lab11\Temp\Simulation\Real\4PP065_0571_P74\
+
+Tue Sep 17 11:32:58 2024
+COMMAND_COLDSTART
+
+Tue Sep 17 11:33:00 2024
+Version: D4.52
+
+Tue Sep 17 11:33:22 2024
+COMMAND_TERMINATE
+
